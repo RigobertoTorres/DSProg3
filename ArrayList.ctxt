@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayList()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArrayList\r\n\ \r\n\ Initializes\ rear\ to\ 0\r\n
+comment1.params=
+comment1.target=java.lang.Object\ removeFirst()
+comment1.text=\r\n\ The\ removeFirst\ method\ removes\ and\ returns\ the\ first\ element\ in\ the\ array\ list\r\n\ \r\n\ @return\ result\ This\ is\ the\ first\ element\ in\ the\ array\ \r\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment10.text=\r\n\ This\ method\ returns\ a\ concatenated\ string\ representation\ of\ the\ array\ list\r\n\ \r\n\ @return\ result\ The\ concatenated\ string\ representation\ of\ the\ array\ list\r\n
+comment2.params=
+comment2.target=java.lang.Object\ removeLast()
+comment2.text=\r\n\ The\ removeLast\ method\ removes\ and\ returns\ the\ last\ element\ in\ the\ array\r\n\ \r\n\ @return\ result\ This\ is\ the\ last\ element\ in\ the\ array\ \r\n
+comment3.params=element
+comment3.target=java.lang.Object\ remove(java.lang.Object)
+comment3.text=\r\n\ The\ remove\ method\ takes\ in\ an\ element\ and\ compares\ it\ to\ the\ elements\ in\ the\ array\ using\ the\ equals\r\n\ method\ and\ then\ returns\ it\r\n\ \r\n\ @param\ element\ This\ is\ the\ element\ that\ is\ passed\ into\ the\ method\ and\ that\ is\ compared\ to\ the\ elements\ of\ the\ array\r\n\ @return\ result\ This\ is\ the\ element\ that\ equals\ the\ parameter\r\n
+comment4.params=
+comment4.target=java.lang.Object\ first()
+comment4.text=\r\n\ This\ method\ returns\ the\ first\ element\ of\ the\ array\ without\ changing\ it\r\n\ \r\n\ @return\ arrList[0]\ This\ is\ the\ first\ element\ of\ the\ array\ that\ is\ returned\r\n
+comment5.params=
+comment5.target=java.lang.Object\ last()
+comment5.text=\r\n\ This\ method\ returns\ the\ last\ element\ of\ the\ array\ without\ changing\ it\r\n\ \r\n\ @return\ arrList[rear]\ This\ is\ the\ last\ element\ of\ the\ array\ that\ is\ returned\r\n
+comment6.params=targetElement
+comment6.target=boolean\ contains(java.lang.Object)
+comment6.text=\r\n\ This\ method\ takes\ in\ an\ element\ and\ compares\ it\ to\ each\ element\ in\ the\ array\ to\ see\ if\ the\ element\ exists\r\n\ within\ the\ arrray.\r\n\ \r\n\ @param\ targetElement\ This\ is\ the\ element\ that\ the\ method\ will\ be\ checking\ for\ in\ the\ array\r\n\ \r\n\ @return\ found\ This\ is\ the\ boolean\ that\ is\ returned.\ True\ if\ the\ element\ is\ found\ in\ the\ array.\ False\ if\ the\ element\ isn't\ found\ in\ the\ array\r\n
+comment7.params=
+comment7.target=boolean\ isEmpty()
+comment7.text=\r\n\ This\ method\ returns\ whether\ or\ not\ the\ array\ is\ empty\ or\ not\r\n\ \r\n\ @return\ rear\ \=\=\ 0\ Returns\ true\ if\ the\ array\ is\ empty,\ false\ if\ it\ is\ not\ empty\r\n
+comment8.params=
+comment8.target=int\ size()
+comment8.text=\r\n\ This\ method\ returns\ the\ size\ of\ the\ array\ list\r\n\ \r\n\ @return\ rear\ The\ amount\ of\ elements\ in\ the\ array\r\n
+comment9.params=
+comment9.target=ArrayIterator\ iterator()
+comment9.text=\r\n\ This\ method\ creates\ an\ iterator\ and\ returns\ it\r\n\ \r\n\ @return\ it\ This\ is\ the\ iterator\ that\ is\ created\ and\ returned\r\n
+numComments=11

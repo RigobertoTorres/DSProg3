@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayOrderedList()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArrayOrderedList\r\n\ \r\n\ Initializes\ rear\ to\ 0\r\n
+comment1.params=element
+comment1.target=void\ add(java.lang.Object)
+comment1.text=\r\n\ This\ method\ compares\ an\ element\ to\ the\ each\ element\ in\ the\ array\ list\ to\ determine\ where\ \r\n\ to\ add\ it.\r\n\ \r\n\ @param\ element\ The\ element\ that\ will\ be\ added\ to\ the\ array\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ This\ method\ returns\ a\ concatenated\ string\ representation\ of\ the\ array\ list\r\n\ \r\n\ @return\ result\ The\ concatenated\ string\ representation\ of\ the\ array\ list\r\n
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment3.text=\r\n\ This\ method\ returns\ whether\ or\ not\ the\ array\ is\ empty\ or\ not\r\n\ \r\n\ @return\ rear\ \=\=\ 0\ Returns\ true\ if\ the\ array\ is\ empty,\ false\ if\ it\ is\ not\ empty\r\n
+numComments=4
